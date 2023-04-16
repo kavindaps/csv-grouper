@@ -1,6 +1,6 @@
 # API for Generating Unique Combinations from CSV and TSV Files
 
-This API provides a command-line interface for generating unique combinations from CSV (Comma Separated Values) and TSV (Tab Separated Values) files. The API is designed to work in a terminal environment and can be executed using PHP.
+This API works in Terminal for generating unique combinations from CSV (Comma Separated Values) and TSV (Tab Separated Values) files. The API is designed to work in a terminal environment and can be executed using PHP. (Successfully Tested in Mac Terminal)
 
 #### Requirements
 To use this API, you need to have the following software installed on your system:
