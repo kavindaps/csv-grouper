@@ -179,6 +179,10 @@ if ( ($argc > 1) && ($argv[1] == '--file') && (isset($argv[2])) && (isset($argv[
         echo "API logic is not valid \n";
         echo "Please try again \n";
     }
+    echo "\n";
+    echo "$outputFilePath file generated successfully in the same folder \n";
+    echo "\n";
+    
 } else {
     echo "Program didn't work \n";
     echo "One or more arguments are missing \n";
